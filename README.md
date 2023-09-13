@@ -1,6 +1,8 @@
 # Procedural-Noise
 Create deterministic procedural noise using C# 11's new generics math features.
 
+![White Noise](Noise/noise.bmp)
+
 ## Creating a noise object
 The following code with creates a white noise generator of type double with a specified seed and reads the value at the given position.
 
